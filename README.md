@@ -35,32 +35,56 @@ Welcome to **Galactic Gambit**, an innovative app that combines both digital and
 ![Introductory Page](https://github.com/MdRahimulHassan/astro-health-assistant/blob/main/c.PNG?raw=true)
 
 
+
+
+
 ## Introductory of our AI 'Astro Health Assistant'
 ![](https://github.com/MdRahimulHassan/astro-health-assistant/blob/main/j.PNG?raw=true)
+
+
+
 
 
 ## Answer from the AI
 ![](https://github.com/MdRahimulHassan/astro-health-assistant/blob/main/m.jpeg?raw=true)
 
 
+
+
+
 ## NASA Health Resource Hub Page
 ![](https://github.com/MdRahimulHassan/astro-health-assistant/blob/main/l.PNG?raw=true)
+
+
+
 
 
 ## Level Page of The Game
 ![](https://github.com/MdRahimulHassan/astro-health-assistant/blob/main/e.PNG?raw=true)
 
 
+
+
+
 ## Level 1 Introductory
 ![](https://github.com/MdRahimulHassan/astro-health-assistant/blob/main/f.PNG?raw=true)
+
+
+
 
 
 ## Game Mechanism of Level 1 Game
 ![](https://github.com/MdRahimulHassan/astro-health-assistant/blob/main/g.PNG?raw=true)
 
 
+
+
+
 ## Game Animation of Level 1 Game
 ![](https://github.com/MdRahimulHassan/astro-health-assistant/blob/main/h.PNG?raw=true)
+
+
+
 
 
 ## Benefits of Level 1 Game
