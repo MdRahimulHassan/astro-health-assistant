@@ -38,7 +38,7 @@ Welcome to **Galactic Gambit**, an innovative app that combines both digital and
 
 
 
-## Introductory of our AI 'Astro Health Assistant'
+## Introduction of The AI 'Astro Health Assistant'
 ![](https://github.com/MdRahimulHassan/astro-health-assistant/blob/main/j.PNG?raw=true)
 
 
