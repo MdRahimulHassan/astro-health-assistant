@@ -30,3 +30,11 @@ Welcome to **Galactic Gambit**, an innovative app that combines both digital and
 
 ## Screen Shots
 ![Introductory Page](https://github.com/MdRahimulHassan/astro-health-assistant/blob/main/c.PNG?raw=true)
+![](https://github.com/MdRahimulHassan/astro-health-assistant/blob/main/j.PNG?raw=true)
+![](https://github.com/MdRahimulHassan/astro-health-assistant/blob/main/m.jpeg?raw=true)
+![](https://github.com/MdRahimulHassan/astro-health-assistant/blob/main/l.PNG?raw=true)
+![](https://github.com/MdRahimulHassan/astro-health-assistant/blob/main/e.PNG?raw=true)
+![](https://github.com/MdRahimulHassan/astro-health-assistant/blob/main/f.PNG?raw=true)
+![](https://github.com/MdRahimulHassan/astro-health-assistant/blob/main/g.PNG?raw=true)
+![](https://github.com/MdRahimulHassan/astro-health-assistant/blob/main/h.PNG?raw=true)
+![](https://github.com/MdRahimulHassan/astro-health-assistant/blob/main/i.PNG?raw=true)
