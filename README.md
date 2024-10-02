@@ -29,4 +29,4 @@ Welcome to **Galactic Gambit**, an innovative app that combines both digital and
 6. **GitHub** – Version control and collaboration platform for managing the project’s codebase.
 
 ## Screen Shots
-(https://github.com/MdRahimulHassan/astro-health-assistant/blob/main/c.PNG?raw=true)
+![Introductory Page](https://github.com/MdRahimulHassan/astro-health-assistant/blob/main/c.PNG?raw=true)
