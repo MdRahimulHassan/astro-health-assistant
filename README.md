@@ -27,3 +27,7 @@ Welcome to **Galactic Gambit**, an innovative app that combines both digital and
 4. **Figma** – A collaborative design tool used for creating sleek and intuitive prototypes.  
 5. **Canva** – For designing high-quality video assets and visual elements.  
 6. **GitHub** – Version control and collaboration platform for managing the project’s codebase.
+
+## Screen Shots
+(https://github.com/MdRahimulHassan/astro-health-assistant/blob/main/c.PNG)
+
